@@ -1,3 +1,7 @@
+This project is to reproduce LaSAFT + GPoCM model, with altered data loading and training pipeline.
+
+The original README is as follows:
+
 # LaSAFT: Latent Source Attentive Frequency Transformation for Conditioned Source Separation
 
 ## Updates
