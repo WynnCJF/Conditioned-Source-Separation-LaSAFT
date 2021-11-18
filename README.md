@@ -1,4 +1,5 @@
 #### This project is to reproduce LaSAFT + GPoCM model, with altered data loading and training pipeline.
+- The source files for test / evaluation are temporarily missing due to accessibility issue
 
 #### The original README is as follows:
 
